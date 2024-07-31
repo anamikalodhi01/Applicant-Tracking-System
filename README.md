@@ -30,18 +30,22 @@ This AI-Powered Resume Analyzer & Job Match System is an innovative tool designe
     cd Applicant-Tracking-System
     ```
 
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. **Set Up a Virtual Environment**
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
 
-3. **Set up environment variables**:
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+ 
+4. **Set up environment variables**:
     Create a `.env` file in the root directory and add your Google API key:
     ```
     GOOGLE_API_KEY=your_google_api_key
     ```
 
-4. **Run the application**:
+5. **Run the application**:
     ```bash
     streamlit run app.py
     ```
