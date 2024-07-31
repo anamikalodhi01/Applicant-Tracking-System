@@ -66,6 +66,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_applicanttrackingsystem-jobseeking-resumetips-activity-7224384235023843329-Ncho?utm_source=share&utm_medium=member_desktop
 
 ## Screen Recording of the ATS
+https://github.com/user-attachments/assets/828a197c-ac99-4f9e-a94a-c184bcd592a2
 
 
 
