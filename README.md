@@ -26,8 +26,8 @@ This AI-Powered Resume Analyzer & Job Match System is an innovative tool designe
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone 
-    cd Resume-Analyzer-ATS
+    git clone https://github.com/anamikalodhi01/Applicant-Tracking-System.git
+    cd Applicant-Tracking-System
     ```
 
 2. **Install dependencies**:
@@ -47,23 +47,23 @@ This AI-Powered Resume Analyzer & Job Match System is an innovative tool designe
     ```
 
 ## Usage
-
 1. Open the application in your browser.
-Upload a resume and a job description using the provided interface.
-Run the analysis to receive a CV score and detailed feedback.
-Review the suggestions for improvement and skill enhancement.
-Output
-CV Score: A numerical value indicating the match quality between the resume and job description.
-Improvement Suggestions: Tips to optimize the resume content.
-Skills Recommendations: Advice on skills to develop for better job alignment.
-Contributors
-Your Name - Developer
-Acknowledgments
+2. Upload your resume PDF file.
+3. Enter the job description in the provided text box.
+4. Click the "Analyze" button to get your resume analyzed.
+
+## Output
+- **CV Score**: A numerical value indicating the match quality between the resume and job description.
+- **Improvement Suggestions**: Tips to optimize the resume content.
+- **Skills Recommendations**: Advice on skills to develop for better job alignment.
+  
+## Acknowledgments
 Special thanks to:
 
 Kunal Kishore for mentorship and support.
 Mohit Malini for guidance and insights.
 SkillCred classes for providing valuable knowledge and resources.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
