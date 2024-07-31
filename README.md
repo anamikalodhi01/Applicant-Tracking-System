@@ -5,7 +5,7 @@
 ## Overview
 This AI-Powered Resume Analyzer & Job Match System is an innovative tool designed to help job seekers enhance their resumes and align them with job descriptions. By utilizing the Google Gemini Pro Vision API, this system provides insightful analysis and actionable feedback to improve your chances of landing your dream job.
 
-##Features
+## Features
 - **Resume Parsing**: Extracts and organizes information from your resume.
 - **Job Description Analysis**: Identifies essential skills and qualifications.
 - **CV Scoring**: Provides a score based on how well your resume matches the job requirements.
@@ -52,18 +52,20 @@ This AI-Powered Resume Analyzer & Job Match System is an innovative tool designe
 3. Enter the job description in the provided text box.
 4. Click the "Analyze" button to get your resume analyzed.
 
-## Output
-- **CV Score**: A numerical value indicating the match quality between the resume and job description.
-- **Improvement Suggestions**: Tips to optimize the resume content.
-- **Skills Recommendations**: Advice on skills to develop for better job alignment.
-  
 ## Acknowledgments
 Special thanks to:
 
-Kunal Kishore for mentorship and support.
-Mohit Malini for guidance and insights.
-SkillCred classes for providing valuable knowledge and resources.
+**Kunal Kishore for mentorship and support.**
+**Mohit Malini for guidance and insights.**
+**SkillCred classes for providing valuable knowledge and resources.**
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Linkedin Post link 
+https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_applicanttrackingsystem-jobseeking-resumetips-activity-7224384235023843329-Ncho?utm_source=share&utm_medium=member_desktop
+
+## Screen Recording of the ATS
+
+
 
