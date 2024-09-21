@@ -56,13 +56,6 @@ This AI-Powered Resume Analyzer & Job Match System is an innovative tool designe
 3. Enter the job description in the provided text box.
 4. Click the "Analyze" button to get your resume analyzed.
 
-## Acknowledgments
-Special thanks to:
-
-**Kunal Kishore for mentorship and support.**
-**Mohit Malini for guidance and insights.**
-**SkillCred classes for providing valuable knowledge and resources.**
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
